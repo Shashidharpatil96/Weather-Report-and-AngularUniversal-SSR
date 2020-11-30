@@ -1,9 +1,9 @@
-# RxJS in Angular: Creating a Weather App
+# Weather Report With Angular: Creating a Weather App
 
-This is a demo project for the article [RxJS in Angular: Creating a Weather App](https://zoaibkhan.com/blog/rxjs-in-angular-creating-a-weather-app/) published on my blog.
+This is a demo project for the Weather report Information and Server side Rendering (SSR) Configured.
 
-Feel free to extend or modify as you wish :)
+I have made this Repo public Feel free to extend or modify as you wish :)
 
 Cheers,
-Zoaib
+Shashidhar Patil
 
